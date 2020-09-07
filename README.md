@@ -15,3 +15,6 @@ NOTE:
 
 
 Checkout [my blog](https://bradbarrows.com/posts/chromeDevTools) for more information.
+
+
+![An animated gif of the usage of these scripts](https://bradbarrows.com/static/ChromeDevToolsOnTop.gif)
